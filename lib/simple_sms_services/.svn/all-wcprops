@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn2/rails/!svn/ver/109/SSS/lib/simple_sms_services
+END
+flickr_images.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn2/rails/!svn/ver/166/SSS/lib/simple_sms_services/flickr_images.rb
+END
+pop_ssl.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn2/rails/!svn/ver/158/SSS/lib/simple_sms_services/pop_ssl.rb
+END
+feed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn2/rails/!svn/ver/166/SSS/lib/simple_sms_services/feed.rb
+END
+version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn2/rails/!svn/ver/211/SSS/lib/simple_sms_services/version.rb
+END
+email_to_mms.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn2/rails/!svn/ver/166/SSS/lib/simple_sms_services/email_to_mms.rb
+END
+process_subscriptions.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn2/rails/!svn/ver/158/SSS/lib/simple_sms_services/process_subscriptions.rb
+END

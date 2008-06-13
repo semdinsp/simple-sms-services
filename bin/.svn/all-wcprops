@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn2/rails/!svn/ver/109/SSS/bin
+END
+weekly_rss_routines.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn2/rails/!svn/ver/211/SSS/bin/weekly_rss_routines.rb
+END
+daily_rss_routines.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn2/rails/!svn/ver/211/SSS/bin/daily_rss_routines.rb
+END
+get_feed.rb
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn2/rails/!svn/ver/155/SSS/bin/get_feed.rb
+END
+process_email_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn2/rails/!svn/ver/166/SSS/bin/process_email_tags.rb
+END
+flickr_tag_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn2/rails/!svn/ver/167/SSS/bin/flickr_tag_test.rb
+END
+flickr_test.rb
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn2/rails/!svn/ver/166/SSS/bin/flickr_test.rb
+END
+daily_flickr_tags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn2/rails/!svn/ver/166/SSS/bin/daily_flickr_tags.rb
+END
+daily_sms_routines.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn2/rails/!svn/ver/179/SSS/bin/daily_sms_routines.rb
+END

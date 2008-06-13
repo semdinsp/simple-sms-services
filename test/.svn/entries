@@ -1,0 +1,50 @@
+8
+
+dir
+109
+http://oliver.ficonab.com./svn2/rails/SSS/test
+http://oliver.ficonab.com./svn2/rails
+
+
+
+2007-10-22T07:22:08.312138Z
+109
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+ceeaca9f-745c-46d7-b156-2271164c1546
+
+test_simple_sms_services.rb
+file
+166
+
+
+
+2007-12-03T08:37:38.000000Z
+eabc85b6f046a785550b459e80066aa9
+2007-12-05T07:26:02.748636Z
+166
+
+test_helper.rb
+file
+158
+
+
+
+2007-11-21T08:30:09.000000Z
+b169fa2434f3ea83a75c6aaeceac3971
+2007-11-21T12:58:20.955907Z
+158
+
